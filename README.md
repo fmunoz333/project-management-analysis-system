@@ -149,7 +149,7 @@ IT.2025.0149 | IT | Senior PM | Low | Under Budget | 100 | 0.68
 
 ## 📫 Contact & Collaboration
 
-For questions, collaboration opportunities, or access to the live dashboard, please reach out through GitHub or view the [interactive dashboard](https://lookerstudio.google.com/s/h6gC8JvBu9A).
+For questions, collaboration opportunities, or access to the live dashboard, please reach out through GitHub.
 
 ---
 
