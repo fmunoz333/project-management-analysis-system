@@ -1,10 +1,12 @@
-> **Portfolio Project — Skill Demonstration**
-> Built on an anonymized enterprise project portfolio dataset (4,000 projects, $4.57B combined
-> budget) spanning 6 industries and 5 project management methodologies. This is not derived from
-> a client engagement. The analytical questions, KPI design, and success factor framework reflect
-> 30+ years of direct PMO leadership experience — including management of a $73M BSS/OSS
-> transformation at Amdocs and current oversight of CNT EP's $84M annual infrastructure program.
+<!-- Standard portfolio metadata: keep this block consistent across project repositories. -->
+> **Portfolio classification:** Portfolio project / skill demonstration  
+> **Purpose:** Demonstrate Power BI portfolio analysis, budget and risk analytics, success factors and organizational maturity analysis.  
+> **Data / confidentiality:** The README states that the 4,000-project dataset is anonymized and is not a client engagement.  
+> **Author:** Fernando Muñoz Rivadeneira · Quito, Ecuador  
+> **Related profile:** [Professional CV](https://fmunoz333.github.io/fernando-munoz-cv/) · [GitHub profile](https://github.com/fmunoz333)  
+> **Contact:** [fxmr.consult@gmail.com](mailto:fxmr.consult@gmail.com) · [LinkedIn](https://www.linkedin.com/in/fernando-munoz-4737571)
 
+---
 # 📋 Project Management Analysis System
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-yellow.svg)](https://powerbi.microsoft.com/)
@@ -543,19 +545,6 @@ Future analytical directions for this portfolio framework:
 
 ---
 
-## 👤 About the Author & Contact
-
-**Fernando Muñoz** — Senior Data Analyst / Project & Program Management Consultant  
-*30+ Years Leading Technology & Infrastructure Programs ($84M+ Portfolios)*
-
-- **PMP® Certified** | **Scrum Master (PSM I)** | **Six Sigma Black Belt**
-- 🌐 **Interactive Portfolio:** [fmunoz333.github.io/fernando-munoz-cv](https://fmunoz333.github.io/fernando-munoz-cv/)
-- 💼 **Services & Consulting:** [fmunoz333.github.io/professional-services](https://fmunoz333.github.io/professional-services/)
-- 📧 **Email:** [fxmr.consult@gmail.com](mailto:fxmr.consult@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/fernando-munoz-4737571](https://www.linkedin.com/in/fernando-munoz-4737571)
-
----
-
 ## 🔖 Tags
 
 `power-bi` `data-analytics` `business-intelligence` `project-management` `pmo` `portfolio-management` `kpi-dashboard` `dax` `power-query` `data-modeling` `risk-analysis` `executive-dashboard` `agile` `scrum` `waterfall` `kanban` `organizational-maturity`
@@ -568,4 +557,21 @@ Future analytical directions for this portfolio framework:
 
 Made by Fernando Munoz
 
+[⬆ Back to Top](#-project-management-analysis-system)
+
 </div>
+
+---
+
+---
+
+## Author & professional context
+
+**Fernando Muñoz Rivadeneira** — Data Analyst, Project & Program Manager, and Technology & Operations Leader with 30+ years of experience across telecommunications, IT infrastructure, PMO governance, operational improvement, risk management, and business intelligence.
+
+This repository is part of my professional portfolio. The classification and data provenance stated at the top of this README define how its results should be interpreted.
+
+- **Professional CV:** https://fmunoz333.github.io/fernando-munoz-cv/
+- **Professional services:** https://fmunoz333.github.io/professional-services/
+- **LinkedIn:** https://www.linkedin.com/in/fernando-munoz-4737571
+- **Email:** fxmr.consult@gmail.com
