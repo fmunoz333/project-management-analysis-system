@@ -1,7 +1,6 @@
-<!-- Standard portfolio metadata: keep this block consistent across project repositories. -->
 > **Portfolio classification:** Portfolio project / skill demonstration  
 > **Purpose:** Demonstrate Power BI portfolio analysis, budget and risk analytics, success factors and organizational maturity analysis.  
-> **Data / confidentiality:** The README states that the 4,000-project dataset is anonymized and is not a client engagement.  
+> **Data / confidentiality:** 4,000-project dataset is anonymized and is not a client engagement.  
 > **Author:** Fernando Muñoz Rivadeneira · Quito, Ecuador  
 > **Related profile:** [Professional CV](https://fmunoz333.github.io/fernando-munoz-cv/) · [GitHub profile](https://github.com/fmunoz333)  
 > **Contact:** [fxmr.consult@gmail.com](mailto:fxmr.consult@gmail.com) · [LinkedIn](https://www.linkedin.com/in/fernando-munoz-4737571)
@@ -555,7 +554,7 @@ Future analytical directions for this portfolio framework:
 
 **⭐ If you find this project useful, please consider giving it a star! ⭐**
 
-Made by Fernando Munoz
+Made by Fernando Muñoz
 
 [⬆ Back to Top](#-project-management-analysis-system)
 
@@ -563,9 +562,8 @@ Made by Fernando Munoz
 
 ---
 
----
 
-## Author & professional context
+## Author & Professional Context
 
 **Fernando Muñoz Rivadeneira** — Data Analyst, Project & Program Manager, and Technology & Operations Leader with 30+ years of experience across telecommunications, IT infrastructure, PMO governance, operational improvement, risk management, and business intelligence.
 
